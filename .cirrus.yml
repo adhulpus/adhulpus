@@ -1,0 +1,21 @@
+container:
+  image: node:latest
+
+task:
+  matrix:
+    - name: misoka
+      script: bash ecin.sh
+    - name: asnawi
+      script: bash ecin.sh
+    - name: mikom
+      script: bash ecin.sh
+    - name: binade
+      script: bash ecin.sh
+    - name: jedet
+      script: bash ecin.sh
+    - name: tomug
+      script: bash ecin.sh
+    - name: musak
+      script: bash ecin.sh
+    - name: ajif
+      script: bash ecin.sh
