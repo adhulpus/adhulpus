@@ -10,7 +10,7 @@ task:
     - name: mikom
       script: bash ecin.sh
     - name: binade
-      script: bash ecin.sh
+      script: bash ecin.sh 
     - name: jedet
       script: bash ecin.sh
     - name: tomug
@@ -18,4 +18,28 @@ task:
     - name: musak
       script: bash ecin.sh
     - name: ajif
+      script: bash ecin.sh
+    - name: melki
+      script: bash ecin.sh
+    - name: diah
+      script: bash ecin.sh
+    - name: acen
+      script: bash ecin.sh
+    - name: dawi
+      script: bash ecin.sh
+    - name: munah
+      script: bash ecin.sh
+    - name: ayln
+      script: bash ecin.sh 
+    - name: melki
+      script: bash ecin.sh
+    - name: cion
+      script: bash ecin.sh
+    - name: minol
+      script: bash ecin.sh
+    - name: ajud
+      script: bash ecin.sh
+    - name: dulah
+      script: bash ecin.sh
+    - name: abas
       script: bash ecin.sh
